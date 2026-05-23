@@ -12,11 +12,8 @@ The model was trained on a robust dataset containing 2,190 entries. Key data pro
 * **Vectorized Wind Data**: Wind direction was converted into radians and decomposed into its `wind_u` (East-West) and `wind_v` (North-South) components to improve predictive utility.
 
 ### 🤖 Model Performance
-After evaluating various classifiers, the **RandomForestClassifier** was selected as the optimal model, achieving the highest F1-score of **0.916**. The confusion matrix below illustrates the model's predictive capability:
+After evaluating various classifiers, the **RandomForestClassifier** was selected as the optimal model, achieving the highest F1-score of **0.916**. The performance metrics are summarized below:
 
-| Metric | Score |
-| :--- | :--- |
-| **Accuracy** | 0.865 |
-| **Precision** | 0.897 |
-| **Recall** | 0.936 |
-| **F1-Score** | 0.916 |
+| Accuracy | Precision | Recall | F1-Score |
+| :--- | :--- | :--- | :--- |
+| 0.865 | 0.897 | 0.936 | 0.916 |
