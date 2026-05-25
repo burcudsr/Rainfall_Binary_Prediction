@@ -1,6 +1,6 @@
 # 🌧️ Rainfall Binary Prediction
 
-This project focuses on binary classification to predict rainfall occurrences using historical meteorological data from the **2025 Kaggle Playground Series (Season 5, Episode 3)**. By applying advanced feature engineering techniques, the model identifies patterns in climate variables to provide accurate forecasting.
+This project focuses on binary classification to predict rainfall occurrences using historical meteorological data from the **Kaggle Playground Series: Season 5, Episode 3**. By applying advanced feature engineering techniques, the model identifies patterns in climate variables to provide accurate forecasting.
 
 ### 🚀 Live Demo
 Explore the interactive prediction model here: **[Rainfall Prediction App](https://huggingface.co/spaces/bdaser/Rainfall)**
